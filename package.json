@@ -1,0 +1,47 @@
+{
+  "name": "aws-terraform-extension-pack",
+  "displayName": "AWS Terraform Extension Pack",
+  "description": "Collection of VS Code extensions focused on Terraform development on AWS",
+  "version": "1.0.0",
+  "publisher": "dannysteenman",
+  "icon": "images/terraform-extension-pack-icon.png",
+  "homepage": "https://towardsthecloud.com",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dannysteenman/vscode-terraform-extension-pack.git"
+  },
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "galleryBanner": {
+    "color": "#2B2C33",
+    "theme": "dark"
+  },
+  "categories": ["Extension Packs"],
+  "keywords": ["aws", "terraform", "typescript", "python"],
+  "badges": [
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/v/dannysteenman.aws-terraform-extension-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-terraform-extension-pack",
+      "description": "Version"
+    },
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/i/dannysteenman.aws-terraform-extension-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-terraform-extension-pack",
+      "description": "Installs"
+    },
+    {
+      "url": "https://img.shields.io/visual-studio-marketplace/stars/dannysteenman.aws-terraform-extension-pack",
+      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-terraform-extension-pack",
+      "description": "Rating"
+    }
+  ],
+  "extensionPack": [
+    "amazonwebservices.aws-toolkit-vscode",
+    "betajob.modulestf",
+    "dannysteenman.iam-actions-snippets",
+    "HashiCorp.terraform",
+    "visualstudioexptteam.vscodeintellicode"
+  ]
+}
