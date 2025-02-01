@@ -48,6 +48,7 @@
     "amazonwebservices.aws-toolkit-vscode",
     "betajob.modulestf",
     "dannysteenman.iam-actions-snippets",
+    "dannysteenman.iam-service-principal-snippets",
     "HashiCorp.terraform",
     "visualstudioexptteam.vscodeintellicode"
   ]
