@@ -9,7 +9,7 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dannysteenman/vscode-terraform-extension-pack.git"
+    "url": "https://github.com/towardsthecloud/vscode-terraform-extension-pack.git"
   },
   "engines": {
     "vscode": "^1.96.0"
