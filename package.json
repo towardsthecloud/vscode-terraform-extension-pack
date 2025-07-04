@@ -2,7 +2,7 @@
   "name": "aws-terraform-extension-pack",
   "displayName": "AWS Terraform Extension Pack",
   "description": "Collection of VS Code extensions focused on Terraform development on AWS",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "publisher": "dannysteenman",
   "icon": "images/terraform-extension-pack-icon.png",
   "homepage": "https://towardsthecloud.com",
