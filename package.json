@@ -27,23 +27,6 @@
     "typescript",
     "python"
   ],
-  "badges": [
-    {
-      "url": "https://img.shields.io/visual-studio-marketplace/v/dannysteenman.aws-terraform-extension-pack",
-      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-terraform-extension-pack",
-      "description": "Version"
-    },
-    {
-      "url": "https://img.shields.io/visual-studio-marketplace/i/dannysteenman.aws-terraform-extension-pack",
-      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-terraform-extension-pack",
-      "description": "Installs"
-    },
-    {
-      "url": "https://img.shields.io/visual-studio-marketplace/stars/dannysteenman.aws-terraform-extension-pack",
-      "href": "https://marketplace.visualstudio.com/items?itemName=dannysteenman.aws-terraform-extension-pack",
-      "description": "Rating"
-    }
-  ],
   "extensionPack": [
     "amazonwebservices.aws-toolkit-vscode",
     "betajob.modulestf",
