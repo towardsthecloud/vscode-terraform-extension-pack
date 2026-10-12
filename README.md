@@ -6,9 +6,9 @@ This is a collection of extensions that I've curated in this vscode extension pa
 > [!TIP]
 > **Catch AWS waste before and after you deploy.**
 >
-> [CloudBurn](https://cloudburn.io) is a free, open-source CLI that checks your Terraform and CloudFormation for costly patterns before deploy, then finds the waste already running in your AWS account. Run it locally or in CI.
+> [CloudBurn](https://cloudburn.io) is a free, open-source CLI that checks your Terraform and CloudFormation for costly patterns before deploy, then finds the waste already running in your AWS acco[...]
 >
-> <a href="https://github.com/towardsthecloud/cloudburn"><img alt="Get the free CloudBurn CLI on GitHub" src="https://img.shields.io/badge/Get%20the%20free%20CLI-GitHub-brightgreen.svg?style=for-the-badge&logo=github"/></a>
+> <a href="https://github.com/towardsthecloud/cloudburn"><img alt="Get the free CloudBurn CLI on GitHub" src="https://img.shields.io/badge/Get%20the%20free%20CLI-GitHub-brightgreen.svg?style=for-t[...]
 >
 > Want it managed across your AWS accounts? [CloudBurn Platform](https://cloudburn.io) runs it for you and keeps scan results in your own account. Join the waitlist for 30% off.
 <!-- TIP-LIST:END -->
@@ -19,8 +19,8 @@ This extension pack includes the following VS Code extensions:
 
 1. **Betajob Terraform**: Semantic highlighting support for Terraform, and more to come...
 2. **Amazon Web Services Toolkit for VS Code**: Offers tools for working with AWS services
-3. **IAM Actions Snippets**: Adds autocomplete and snippets for AWS IAM policy actions in Terraform
-4. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals.
+3. **IAM Actions Snippets**: Adds autocomplete and snippets for AWS IAM policy actions in Terraform — [source on GitHub](https://github.com/dannysteenman/iam-actions-snippets)
+4. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals — [source on GitHub](https://github.com/dannysteenman/iam-service-principal-snippets)
 5. **HashiCorp Terraform**: Official extension for Terraform language support
 6. **IntelliCode**: AI-assisted development features from Microsoft
 
@@ -33,14 +33,14 @@ This extension pack includes the following VS Code extensions:
 
 ## Usage
 
-Once installed and configured, you can start using the extensions right away in your Terraform projects. The extensions will automatically enhance your development environment with features like code completion, linting, formatting, and more.
+Once installed and configured, you can start using the extensions right away in your Terraform projects. The extensions will automatically enhance your development environment with features like c[...]
 
 For specific usage instructions for each extension, please refer to their individual documentation.
 
 ---
 ## Feedback and Contributions
 
-If you have any feedback or suggestions for improving this extension pack, please open an issue on the [GitHub repository](https://github.com/towardsthecloud/vscode-terraform-extension-pack/issues). Contributions are always welcome!
+If you have any feedback or suggestions for improving this extension pack, please open an issue on the [GitHub repository](https://github.com/towardsthecloud/vscode-terraform-extension-pack/issues[...]
 
 Happy building with Terraform!
 
