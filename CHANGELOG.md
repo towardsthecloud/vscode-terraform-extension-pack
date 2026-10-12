@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.15.0] - 2026-10-12
+
+### Changed
+- Include IAM policy debugger in extension pack by @axonstone in [#1](https://github.com/towardsthecloud/vscode-terraform-extension-pack/pull/1)
+
+## New Contributors
+* @axonstone made their first contribution in [#1](https://github.com/towardsthecloud/vscode-terraform-extension-pack/pull/1)
 ## [1.14.0] - 2026-10-12
 
 ### Added
@@ -78,6 +85,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## New Contributors
 * @dannysteenman made their first contribution
+[1.15.0]: https://github.com/towardsthecloud/vscode-terraform-extension-pack/compare/1.14.0..1.15.0
 [1.14.0]: https://github.com/towardsthecloud/vscode-terraform-extension-pack/compare/1.13.0..1.14.0
 [1.13.0]: https://github.com/towardsthecloud/vscode-terraform-extension-pack/compare/1.12.0..1.13.0
 [1.12.0]: https://github.com/towardsthecloud/vscode-terraform-extension-pack/compare/1.11.0..1.12.0
