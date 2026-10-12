@@ -32,6 +32,7 @@
     "betajob.modulestf",
     "dannysteenman.iam-actions-snippets",
     "dannysteenman.iam-service-principal-snippets",
+    "dannysteenman.iam-policy-debugger",
     "HashiCorp.terraform",
     "visualstudioexptteam.vscodeintellicode"
   ]

@@ -19,10 +19,11 @@ This extension pack includes the following VS Code extensions:
 
 1. **Betajob Terraform**: Semantic highlighting support for Terraform, and more to come...
 2. **Amazon Web Services Toolkit for VS Code**: Offers tools for working with AWS services
-3. **IAM Actions Snippets**: Adds autocomplete and snippets for AWS IAM policy actions in Terraform — [source on GitHub](https://github.com/dannysteenman/iam-actions-snippets)
-4. **AWS IAM Service Principal Snippets**: Autocompletion for AWS service principals — [source on GitHub](https://github.com/dannysteenman/iam-service-principal-snippets)
-5. **HashiCorp Terraform**: Official extension for Terraform language support
-6. **IntelliCode**: AI-assisted development features from Microsoft
+3. **[IAM Actions Snippets](https://github.com/towardsthecloud/vscode-iam-actions-snippets)**: Adds autocomplete and snippets for AWS IAM policy actions in Terraform
+4. **[AWS IAM Service Principal Snippets](https://github.com/towardsthecloud/vscode-iam-service-principal-snippets)**: Autocompletion for AWS service principals.
+5. **[AWS IAM Policy Debugger](https://github.com/towardsthecloud/vscode-iam-policy-debugger)**: Validate IAM policies, explain access requests and run saved regression scenarios. Unpublished development preview; this pack update must be released after the debugger is available in the Marketplace.
+6. **HashiCorp Terraform**: Official extension for Terraform language support
+7. **IntelliCode**: AI-assisted development features from Microsoft
 
 ## Installation
 
